@@ -2,6 +2,7 @@
 
 ## Required Parameters
 
+```
 log_connections = on
 
 log_disconnections = on
@@ -11,6 +12,7 @@ log_statement = 'ddl'
 log_min_duration_statement = 500
 
 pgaudit.log = 'read, write, ddl'
+```
 
 ## Log Retention Policy
 
