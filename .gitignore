@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Backups
+backup/
+*.tar.gz
+
+# OS
+.DS_Store
+
+# Evidence output
+evidence_output/
+
+# Node (future dashboard option)
+node_modules/
+
