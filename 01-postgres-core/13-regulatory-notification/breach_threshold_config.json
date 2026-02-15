@@ -1,0 +1,10 @@
+{
+  "sensitive_tables": [
+    "patient_data",
+    "payroll",
+    "financial_records"
+  ],
+  "mass_export_threshold": 1000,
+  "notification_window_hours": 72
+}
+
