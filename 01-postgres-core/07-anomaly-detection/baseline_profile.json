@@ -1,0 +1,11 @@
+{
+  "normal_hours_start": 8,
+  "normal_hours_end": 18,
+  "max_queries_per_minute": 100,
+  "restricted_tables": [
+    "patient_data",
+    "payroll",
+    "financial_records"
+  ]
+}
+
