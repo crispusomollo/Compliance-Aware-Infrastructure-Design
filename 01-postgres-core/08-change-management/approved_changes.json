@@ -1,0 +1,9 @@
+{
+  "approved_changes": [
+    {
+      "change_id": "CR-DB-2026-001",
+      "statement": "ALTER TABLE audit_test ADD COLUMN approved_flag BOOLEAN;"
+    }
+  ]
+}
+
